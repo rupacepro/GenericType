@@ -1,0 +1,14 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\AboutList\bin\Debug\net8.0\AboutList.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\AboutList\bin\Debug\net8.0\AboutList.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\AboutList\bin\Debug\net8.0\AboutList.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\AboutList\bin\Debug\net8.0\AboutList.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\AboutList\bin\Debug\net8.0\AboutList.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\AboutList\obj\Debug\net8.0\AboutList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\AboutList\obj\Debug\net8.0\AboutList.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\AboutList\obj\Debug\net8.0\AboutList.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\AboutList\obj\Debug\net8.0\AboutList.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\AboutList\obj\Debug\net8.0\AboutList.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\AboutList\obj\Debug\net8.0\refint\AboutList.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\AboutList\obj\Debug\net8.0\AboutList.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\AboutList\obj\Debug\net8.0\AboutList.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\AboutList\obj\Debug\net8.0\ref\AboutList.dll
