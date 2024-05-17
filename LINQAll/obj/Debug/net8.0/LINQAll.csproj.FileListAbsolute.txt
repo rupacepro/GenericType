@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\LINQAll\bin\Debug\net8.0\LINQAll.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\LINQAll\bin\Debug\net8.0\LINQAll.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\LINQAll\bin\Debug\net8.0\LINQAll.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\LINQAll\bin\Debug\net8.0\LINQAll.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\LINQAll\bin\Debug\net8.0\LINQAll.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\LINQAll\obj\Debug\net8.0\LINQAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\LINQAll\obj\Debug\net8.0\LINQAll.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\LINQAll\obj\Debug\net8.0\LINQAll.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\LINQAll\obj\Debug\net8.0\LINQAll.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\LINQAll\obj\Debug\net8.0\LINQAll.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\LINQAll\obj\Debug\net8.0\LINQAll.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\LINQAll\obj\Debug\net8.0\refint\LINQAll.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\LINQAll\obj\Debug\net8.0\LINQAll.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\LINQAll\obj\Debug\net8.0\LINQAll.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\LINQAll\obj\Debug\net8.0\ref\LINQAll.dll

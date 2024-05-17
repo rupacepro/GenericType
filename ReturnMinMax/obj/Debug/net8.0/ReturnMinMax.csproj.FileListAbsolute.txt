@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\ReturnMinMax\bin\Debug\net8.0\ReturnMinMax.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\ReturnMinMax\bin\Debug\net8.0\ReturnMinMax.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\ReturnMinMax\bin\Debug\net8.0\ReturnMinMax.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\ReturnMinMax\bin\Debug\net8.0\ReturnMinMax.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\ReturnMinMax\bin\Debug\net8.0\ReturnMinMax.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\ReturnMinMax\obj\Debug\net8.0\ReturnMinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\ReturnMinMax\obj\Debug\net8.0\ReturnMinMax.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\ReturnMinMax\obj\Debug\net8.0\ReturnMinMax.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\ReturnMinMax\obj\Debug\net8.0\ReturnMinMax.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\ReturnMinMax\obj\Debug\net8.0\ReturnMinMax.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\ReturnMinMax\obj\Debug\net8.0\ReturnMinMax.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\ReturnMinMax\obj\Debug\net8.0\refint\ReturnMinMax.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\ReturnMinMax\obj\Debug\net8.0\ReturnMinMax.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\ReturnMinMax\obj\Debug\net8.0\ReturnMinMax.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\ReturnMinMax\obj\Debug\net8.0\ref\ReturnMinMax.dll

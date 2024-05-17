@@ -8,14 +8,18 @@ numbers.add("e");
 
 string result = numbers.getIndexAt(2);
 
-
+Console.WriteLine(result);
 
 numbers.removeAt(2);
 
 result = numbers.getIndexAt(2);
 
-numbers.removeAt(5);
+numbers.removeAt(1);
 
+foreach (string item in numbers)
+{
+    Console.WriteLine(item);
+}
 
 Console.ReadKey();
 
@@ -61,5 +65,10 @@ class SimpleList<Type>
             throw new IndexOutOfRangeException($"Index {index} is out of the bounds of the list.");
         }
         return _items[index];
+    }
+
+    public int Length()
+    {
+        return _size;
     }
 }
