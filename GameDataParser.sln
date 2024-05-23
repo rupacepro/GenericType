@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq", "Linq\Linq.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQAll", "LINQAll\LINQAll.csproj", "{8A82AC3C-3DA1-4F83-A846-415785C775FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutAndRef", "OutAndRef\OutAndRef.csproj", "{3D6B16F5-02BD-459E-B7F0-5D5FE147DF70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutAndRef", "OutAndRef\OutAndRef.csproj", "{3D6B16F5-02BD-459E-B7F0-5D5FE147DF70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVReadWrite", "CSVReadWrite\CSVReadWrite.csproj", "{BE47A8C0-1D44-41E9-A7C7-BC00356C4371}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{3D6B16F5-02BD-459E-B7F0-5D5FE147DF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D6B16F5-02BD-459E-B7F0-5D5FE147DF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D6B16F5-02BD-459E-B7F0-5D5FE147DF70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE47A8C0-1D44-41E9-A7C7-BC00356C4371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE47A8C0-1D44-41E9-A7C7-BC00356C4371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE47A8C0-1D44-41E9-A7C7-BC00356C4371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE47A8C0-1D44-41E9-A7C7-BC00356C4371}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

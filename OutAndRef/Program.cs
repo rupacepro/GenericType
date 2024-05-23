@@ -10,11 +10,38 @@
 
 
 
-string num = "1";
+//string num = "1";
 
-bool isInt = int.TryParse(num, out int result);
+//bool isInt = int.TryParse(num, out int result);
 
-Console.WriteLine(result);
+//Console.WriteLine(result);
+
+//DateTime date = DateTime.Now;
+//Change(ref date);
+
+//void Change(ref DateTime date)
+//{
+//    Console.WriteLine(date.Month);
+//}
+
+//int num = 1;
+//object obj = num;
+//int result = (int)obj;
+//Console.WriteLine(result);
+
+using StreamReader reader = new StreamReader("C:\\Users\\rupac\\Desktop\\try.txt", true);
+while (!reader.EndOfStream)
+{
+    String content = reader.ReadLine();
+    Console.WriteLine(content);
+}
+
+Console.ReadKey();
+
+ void dispose()
+{
+    reader.Dispose();
+}
 
 
 
