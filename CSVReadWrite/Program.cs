@@ -3,6 +3,7 @@
 var csvReader = new CSVReader();
 var data = csvReader.Read(filePath);
 Console.WriteLine(data);
+Console.ReadKey();
 
 public class CSVReader
 {

@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\CSVReadWrite\bin\Debug\net8.0\CSVReadWrite.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\CSVReadWrite\bin\Debug\net8.0\CSVReadWrite.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\CSVReadWrite\bin\Debug\net8.0\CSVReadWrite.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\CSVReadWrite\bin\Debug\net8.0\CSVReadWrite.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\CSVReadWrite\bin\Debug\net8.0\CSVReadWrite.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\CSVReadWrite\obj\Debug\net8.0\CSVReadWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\CSVReadWrite\obj\Debug\net8.0\CSVReadWrite.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\CSVReadWrite\obj\Debug\net8.0\CSVReadWrite.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\CSVReadWrite\obj\Debug\net8.0\CSVReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\CSVReadWrite\obj\Debug\net8.0\CSVReadWrite.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\CSVReadWrite\obj\Debug\net8.0\CSVReadWrite.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\CSVReadWrite\obj\Debug\net8.0\refint\CSVReadWrite.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\CSVReadWrite\obj\Debug\net8.0\CSVReadWrite.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\CSVReadWrite\obj\Debug\net8.0\CSVReadWrite.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\CSVReadWrite\obj\Debug\net8.0\ref\CSVReadWrite.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenericMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb1cd51a7d6263e12bb01cc9ef85c76224d99897")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95cd31f4f4a00817f1ea7c638779b8092aede7d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenericMethod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenericMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
