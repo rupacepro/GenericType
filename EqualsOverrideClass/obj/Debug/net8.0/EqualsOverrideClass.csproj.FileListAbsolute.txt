@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\EqualsOverrideClass\bin\Debug\net8.0\EqualsOverrideClass.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\EqualsOverrideClass\bin\Debug\net8.0\EqualsOverrideClass.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\EqualsOverrideClass\bin\Debug\net8.0\EqualsOverrideClass.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\EqualsOverrideClass\bin\Debug\net8.0\EqualsOverrideClass.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\EqualsOverrideClass\bin\Debug\net8.0\EqualsOverrideClass.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\EqualsOverrideClass\obj\Debug\net8.0\EqualsOverrideClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\EqualsOverrideClass\obj\Debug\net8.0\EqualsOverrideClass.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\EqualsOverrideClass\obj\Debug\net8.0\EqualsOverrideClass.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\EqualsOverrideClass\obj\Debug\net8.0\EqualsOverrideClass.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\EqualsOverrideClass\obj\Debug\net8.0\EqualsOverrideClass.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\EqualsOverrideClass\obj\Debug\net8.0\EqualsOverrideClass.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\EqualsOverrideClass\obj\Debug\net8.0\refint\EqualsOverrideClass.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\EqualsOverrideClass\obj\Debug\net8.0\EqualsOverrideClass.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\EqualsOverrideClass\obj\Debug\net8.0\EqualsOverrideClass.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\EqualsOverrideClass\obj\Debug\net8.0\ref\EqualsOverrideClass.dll
