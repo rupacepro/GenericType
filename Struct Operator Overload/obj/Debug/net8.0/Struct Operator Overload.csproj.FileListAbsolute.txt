@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Struct Operator Overload\bin\Debug\net8.0\Struct Operator Overload.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Struct Operator Overload\bin\Debug\net8.0\Struct Operator Overload.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Struct Operator Overload\bin\Debug\net8.0\Struct Operator Overload.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Struct Operator Overload\bin\Debug\net8.0\Struct Operator Overload.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Struct Operator Overload\bin\Debug\net8.0\Struct Operator Overload.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Struct Operator Overload\obj\Debug\net8.0\Struct Operator Overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Struct Operator Overload\obj\Debug\net8.0\Struct Operator Overload.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Struct Operator Overload\obj\Debug\net8.0\Struct Operator Overload.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Struct Operator Overload\obj\Debug\net8.0\Struct Operator Overload.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Struct Operator Overload\obj\Debug\net8.0\Struct Operator Overload.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Struct Operator Overload\obj\Debug\net8.0\Struct Operator Overload.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Struct Operator Overload\obj\Debug\net8.0\refint\Struct Operator Overload.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Struct Operator Overload\obj\Debug\net8.0\Struct Operator Overload.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Struct Operator Overload\obj\Debug\net8.0\Struct Operator Overload.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Struct Operator Overload\obj\Debug\net8.0\ref\Struct Operator Overload.dll

@@ -19,9 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutAndRef", "OutAndRef\OutA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSVReadWrite", "CSVReadWrite\CSVReadWrite.csproj", "{BE47A8C0-1D44-41E9-A7C7-BC00356C4371}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B3B6F307-627C-4549-BFEB-E2F86477D4AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B3B6F307-627C-4549-BFEB-E2F86477D4AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualsOverrideClass", "EqualsOverrideClass\EqualsOverrideClass.csproj", "{EAB4EA0D-393A-4B48-B367-F3C30AED4580}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EqualsOverrideClass", "EqualsOverrideClass\EqualsOverrideClass.csproj", "{EAB4EA0D-393A-4B48-B367-F3C30AED4580}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Struct Operator Overload", "Struct Operator Overload\Struct Operator Overload.csproj", "{C63EA7CD-0127-41E8-87C6-4AA3379B0E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashCodeExample", "HashCodeExample\HashCodeExample.csproj", "{F3F362A7-8EEB-4CB0-B2B6-A3955F13F981}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{EAB4EA0D-393A-4B48-B367-F3C30AED4580}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAB4EA0D-393A-4B48-B367-F3C30AED4580}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAB4EA0D-393A-4B48-B367-F3C30AED4580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C63EA7CD-0127-41E8-87C6-4AA3379B0E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63EA7CD-0127-41E8-87C6-4AA3379B0E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63EA7CD-0127-41E8-87C6-4AA3379B0E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63EA7CD-0127-41E8-87C6-4AA3379B0E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F362A7-8EEB-4CB0-B2B6-A3955F13F981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F362A7-8EEB-4CB0-B2B6-A3955F13F981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F362A7-8EEB-4CB0-B2B6-A3955F13F981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F362A7-8EEB-4CB0-B2B6-A3955F13F981}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
