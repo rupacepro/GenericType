@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Collectoins\bin\Debug\net8.0\Collectoins.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Collectoins\bin\Debug\net8.0\Collectoins.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Collectoins\bin\Debug\net8.0\Collectoins.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Collectoins\bin\Debug\net8.0\Collectoins.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Collectoins\bin\Debug\net8.0\Collectoins.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Collectoins\obj\Debug\net8.0\Collectoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Collectoins\obj\Debug\net8.0\Collectoins.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Collectoins\obj\Debug\net8.0\Collectoins.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Collectoins\obj\Debug\net8.0\Collectoins.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Collectoins\obj\Debug\net8.0\Collectoins.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Collectoins\obj\Debug\net8.0\Collectoins.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Collectoins\obj\Debug\net8.0\refint\Collectoins.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Collectoins\obj\Debug\net8.0\Collectoins.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Collectoins\obj\Debug\net8.0\Collectoins.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\Collectoins\obj\Debug\net8.0\ref\Collectoins.dll
