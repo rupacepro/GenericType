@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StringManipulation\CultureSpecificStringFormatting\bin\Debug\net8.0\CultureSpecificStringFormatting.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StringManipulation\CultureSpecificStringFormatting\bin\Debug\net8.0\CultureSpecificStringFormatting.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StringManipulation\CultureSpecificStringFormatting\bin\Debug\net8.0\CultureSpecificStringFormatting.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StringManipulation\CultureSpecificStringFormatting\bin\Debug\net8.0\CultureSpecificStringFormatting.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StringManipulation\CultureSpecificStringFormatting\bin\Debug\net8.0\CultureSpecificStringFormatting.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StringManipulation\CultureSpecificStringFormatting\obj\Debug\net8.0\CultureSpecificStringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StringManipulation\CultureSpecificStringFormatting\obj\Debug\net8.0\CultureSpecificStringFormatting.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StringManipulation\CultureSpecificStringFormatting\obj\Debug\net8.0\CultureSpecificStringFormatting.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StringManipulation\CultureSpecificStringFormatting\obj\Debug\net8.0\CultureSpecificStringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StringManipulation\CultureSpecificStringFormatting\obj\Debug\net8.0\CultureSpecificStringFormatting.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StringManipulation\CultureSpecificStringFormatting\obj\Debug\net8.0\CultureSpecificStringFormatting.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StringManipulation\CultureSpecificStringFormatting\obj\Debug\net8.0\refint\CultureSpecificStringFormatting.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StringManipulation\CultureSpecificStringFormatting\obj\Debug\net8.0\CultureSpecificStringFormatting.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StringManipulation\CultureSpecificStringFormatting\obj\Debug\net8.0\CultureSpecificStringFormatting.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StringManipulation\CultureSpecificStringFormatting\obj\Debug\net8.0\ref\CultureSpecificStringFormatting.dll

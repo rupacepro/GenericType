@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\BinarySearch\bin\Debug\net8.0\BinarySearch.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\BinarySearch\bin\Debug\net8.0\BinarySearch.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\BinarySearch\bin\Debug\net8.0\BinarySearch.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\BinarySearch\bin\Debug\net8.0\BinarySearch.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\BinarySearch\bin\Debug\net8.0\BinarySearch.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\BinarySearch\obj\Debug\net8.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\BinarySearch\obj\Debug\net8.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\BinarySearch\obj\Debug\net8.0\BinarySearch.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\BinarySearch\obj\Debug\net8.0\BinarySearch.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\BinarySearch\obj\Debug\net8.0\refint\BinarySearch.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\BinarySearch\obj\Debug\net8.0\BinarySearch.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\BinarySearch\obj\Debug\net8.0\BinarySearch.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\BinarySearch\obj\Debug\net8.0\ref\BinarySearch.dll

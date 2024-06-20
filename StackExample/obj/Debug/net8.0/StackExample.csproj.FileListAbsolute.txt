@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StackExample\bin\Debug\net8.0\StackExample.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StackExample\bin\Debug\net8.0\StackExample.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StackExample\bin\Debug\net8.0\StackExample.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StackExample\bin\Debug\net8.0\StackExample.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StackExample\bin\Debug\net8.0\StackExample.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StackExample\obj\Debug\net8.0\StackExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StackExample\obj\Debug\net8.0\StackExample.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StackExample\obj\Debug\net8.0\StackExample.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StackExample\obj\Debug\net8.0\StackExample.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StackExample\obj\Debug\net8.0\StackExample.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StackExample\obj\Debug\net8.0\StackExample.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StackExample\obj\Debug\net8.0\refint\StackExample.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StackExample\obj\Debug\net8.0\StackExample.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StackExample\obj\Debug\net8.0\StackExample.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\StackExample\obj\Debug\net8.0\ref\StackExample.dll

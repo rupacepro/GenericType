@@ -1,0 +1,15 @@
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\HashSetExample\bin\Debug\net8.0\HashSetExample.exe
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\HashSetExample\bin\Debug\net8.0\HashSetExample.deps.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\HashSetExample\bin\Debug\net8.0\HashSetExample.runtimeconfig.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\HashSetExample\bin\Debug\net8.0\HashSetExample.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\HashSetExample\bin\Debug\net8.0\HashSetExample.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\HashSetExample\obj\Debug\net8.0\HashSetExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\HashSetExample\obj\Debug\net8.0\HashSetExample.AssemblyInfoInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\HashSetExample\obj\Debug\net8.0\HashSetExample.AssemblyInfo.cs
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\HashSetExample\obj\Debug\net8.0\HashSetExample.csproj.CoreCompileInputs.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\HashSetExample\obj\Debug\net8.0\HashSetExample.sourcelink.json
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\HashSetExample\obj\Debug\net8.0\HashSetExample.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\HashSetExample\obj\Debug\net8.0\refint\HashSetExample.dll
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\HashSetExample\obj\Debug\net8.0\HashSetExample.pdb
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\HashSetExample\obj\Debug\net8.0\HashSetExample.genruntimeconfig.cache
+C:\Users\rupac\Desktop\Second Semester\c#\practice\GameDataParser\HashSetExample\obj\Debug\net8.0\ref\HashSetExample.dll
