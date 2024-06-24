@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation", "Strin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CultureSpecificStringFormatting", "CultureSpecificStringFormatting\CultureSpecificStringFormatting.csproj", "{F7198B7A-ECEC-4F9F-98D4-E857D2451EF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketDataAggregator", "TicketDataAggregator\TicketDataAggregator.csproj", "{D73AE2A0-02AB-4FF8-970E-9C276454F614}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F7198B7A-ECEC-4F9F-98D4-E857D2451EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7198B7A-ECEC-4F9F-98D4-E857D2451EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7198B7A-ECEC-4F9F-98D4-E857D2451EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73AE2A0-02AB-4FF8-970E-9C276454F614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73AE2A0-02AB-4FF8-970E-9C276454F614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73AE2A0-02AB-4FF8-970E-9C276454F614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73AE2A0-02AB-4FF8-970E-9C276454F614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

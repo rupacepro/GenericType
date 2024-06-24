@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RyIHodAdtBaodnxONW4BtnlhlrHzgiI2LDpdJfkKHaTdfuLTSzIGmNiLuyCOF8RfWUL97l7jVEwSquFNBkgXgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rupac\\Desktop\\Second Semester\\c#\\practice\\GameDataParser\\StringManipulation\\TicketDataAggregator\\TicketDataAggregator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rupac\\.nuget\\packages\\pdfpig\\0.1.8\\pdfpig.0.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
